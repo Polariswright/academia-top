@@ -1,0 +1,49 @@
+section {
+    height: 100%;
+}
+
+.alert0 {
+    background-color: darkgoldenrod;
+}
+
+.card {
+    margin: 1rem auto;
+    width: 85%;
+    height: 35rem;
+}
+
+.img-fluid {
+    width: 100%;
+    height: 100%;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+
+}
+
+
+.movingBox {
+    width: 15rem;
+    height: 25rem;
+    background: #999;
+    transform: translate3d(0, 0, 0);
+
+    transition: 0.3s;
+}
+
+.login0 {
+    margin-top: 3rem;
+    width: 20rem;
+    height: 20rem;
+}
+
+.sbg {
+    background-color: rgb(17, 17, 17);
+    opacity: 0.9;
+}
+
+.bb {
+    background-image: url(../imagens/bg1.png);
+}
